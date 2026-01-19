@@ -28,6 +28,8 @@
 
 ### 🔌 Open Source
 
+- 💬 **[ReplyQueue](https://github.com/charlesjones-dev/replyqueue)** - Chrome extension for content creators that passively discovers relevant social media posts and generates AI-powered reply suggestions. Matches posts against your RSS feed content using keyword and semantic analysis. Built with Vue 3, TypeScript, Tailwind CSS, and Chrome Manifest V3.
+
 - 🤖 **[Claude Code Plugins](https://github.com/charlesjones-dev/claude-code-plugins-dev)** - Open-source plugin marketplace extending Claude Code with security auditing, performance optimization, accessibility testing, Azure DevOps integration, and workflow automation:
 
   - 🔒 **Security audits:** Hours of manual review → minutes
