@@ -41,7 +41,7 @@
 
 - 📊 **[PulseRT](https://github.com/charlesjones-dev/pulsert)** - Native macOS menu bar app for real-time Google Analytics 4 visitor monitoring. Connects to GA4 properties via Google Cloud service accounts with customizable refresh intervals. Built with Swift and SwiftUI.
 
-- 💬 **[ReplyQueue](https://github.com/charlesjones-dev/replyqueue)** - Chrome extension for content creators that passively discovers relevant social media posts and generates AI-powered reply suggestions. Matches posts against your RSS feed content using keyword and semantic analysis. Built with Vue 3, TypeScript, Tailwind CSS, and Chrome Manifest V3.
+- 💬 **[ReplyQueue](https://chromewebstore.google.com/detail/replyqueue/lkdecdgjijicaehjngnehdhoahjipnpg)** ([GitHub](https://github.com/charlesjones-dev/replyqueue)) - Chrome extension for content creators that passively discovers relevant social media posts and generates AI-powered reply suggestions. Matches posts against your RSS feed content using keyword and semantic analysis. Built with Vue 3, TypeScript, Tailwind CSS, and Chrome Manifest V3.
 
 ---
 
