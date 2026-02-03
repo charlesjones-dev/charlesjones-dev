@@ -59,11 +59,11 @@
 
 ## ✍️ Latest Blog Posts
 
-- 📊 [Why Token-Aware Planning Transforms Claude Code Results](https://charlesjones.dev/blog/why-token-aware-planning-transforms-claude-code-results)
+- 🔒 [Secure Vibe Coding is Possible](https://charlesjones.dev/blog/semgrep-ai-assisted-development-security-scanning)
+- 📊 [Why Token-Aware Planning Transforms Claude Code Results](https://charlesjones.dev/blog/claude-code-ai-workflow-plugin-token-aware-planning)
 - ⚖️ [Why I Chose Nuxt Over Next.js for AccessHawk](https://charlesjones.dev/blog/why-i-chose-nuxt-over-nextjs-for-accesshawk)
-- 🔐 [How Doppler Transformed My Multi-Machine Development Workflow](https://charlesjones.dev/blog/how-doppler-transformed-my-multi-machine-development-workflow)
-- 🛡️ [How I Cut Security Audits from 8 Hours to 3 Minutes Using AI](https://charlesjones.dev/blog/how-i-cut-security-audits-from-8-hours-to-3-minutes-using-ai)
-- 🔓 [OWASP Top 10 Security Priorities for Vue.js Developers](https://charlesjones.dev/blog/owasp-top-10-security-priorities-for-vuejs-developers)
+- 🔐 [Doppler Fixed My .env Syncing Problem Across Windows and Mac](https://charlesjones.dev/blog/doppler-secrets-management-cross-platform-development)
+- 📋 [From Git Commits to Azure DevOps Tasks in Seconds](https://charlesjones.dev/blog/claude-code-ai-ado-plugin-azure-devops-automation)
 
 ---
 
