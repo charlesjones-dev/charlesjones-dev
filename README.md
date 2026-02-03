@@ -39,6 +39,8 @@
   - ✅ **Preflight checks:** Auto-detects tools across ecosystems
   - 🧠 **Socratic learning:** Guided problem-solving over copy-paste
 
+- 📊 **[GA Mac Dashboard](https://github.com/charlesjones-dev/ga-mac-dash)** - Native macOS app for monitoring multiple Google Analytics real-time dashboards in a customizable grid. Features shared sessions, fullscreen mode, and persistent URLs. Built with Swift 6.0 and SwiftUI.
+
 - 📊 **[PulseRT](https://github.com/charlesjones-dev/pulsert)** - Native macOS menu bar app for real-time Google Analytics 4 visitor monitoring. Connects to GA4 properties via Google Cloud service accounts with customizable refresh intervals. Built with Swift and SwiftUI.
 
 - 💬 **[ReplyQueue](https://chromewebstore.google.com/detail/replyqueue/lkdecdgjijicaehjngnehdhoahjipnpg)** ([GitHub](https://github.com/charlesjones-dev/replyqueue)) - Chrome extension for content creators that passively discovers relevant social media posts and generates AI-powered reply suggestions. Matches posts against your RSS feed content using keyword and semantic analysis. Built with Vue 3, TypeScript, Tailwind CSS, and Chrome Manifest V3.
