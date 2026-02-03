@@ -24,6 +24,8 @@
 
 - 🦅 **[AccessHawk.ai](https://accesshawk.ai)** ([Overview](https://github.com/charlesjones-dev/accesshawk)) - AI-powered WCAG 2.0, 2.1, and 2.2 accessibility scanner with real-time SSE progress streaming, scheduled scans, shareable reports, and BYOK OpenRouter integration. Built with Nuxt 3, MongoDB, Redis, BullMQ, and Playwright.
 
+- 🐾 **[MyPetDay](https://mypet.day)** - Household pet care tracking with one-tap logging for feeding, walks, and medications. Solution Architect and Lead Developer handling infrastructure, security hardening, and performance optimization. Built with Nuxt 4, TypeScript, MongoDB, AWS S3, and Tailwind CSS.
+
 - 🖨️ **[SPConnector](https://spconnector.com)** - Multi-tenant SaaS automating packing slip printing for e-commerce sellers. Features intelligent multi-printer routing with rules for high-value orders, express shipping, and geographic zones. AES-256-GCM encryption with load-balanced print queue handling thousands of daily orders.
 
 ### 🔌 Open Source
